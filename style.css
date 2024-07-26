@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 #title{
-    background-color: black;
+    background-color: rgb(255, 47, 0);
     color: white;
     overflow: hidden;
 }
@@ -45,7 +45,7 @@
 
 #testimonials{
     text-align: center;
-    background-color: black;
+    background-color: rgb(255, 47, 0);
     color: white;
 }
 .carousel-item{
@@ -58,7 +58,7 @@
 }
 #press{
     text-align: center;
-    background-color: black;
+    background-color: rgb(255, 47, 0);
     padding-bottom: 3%;
 }
 .press-logo{
